@@ -29,5 +29,5 @@ Solution
 </h3>
 </div>
 <div id="header" align="center">
-  <img src=Unique In Order_.png width="400">
+  <img src=Unique_In_Order_.png width="350">
 </div>
